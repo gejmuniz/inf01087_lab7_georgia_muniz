@@ -1,4 +1,4 @@
 # Laboratório de GitHub
-Nome: Geórgia Muniz
-Curso: Ciência da Computação
-Disciplina: INF01087
+Nome: Geórgia Muniz\n
+Curso: Ciência da Computação\n
+Disciplina: INF01087\n
